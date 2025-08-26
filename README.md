@@ -25,12 +25,18 @@ A classic console-based Minesweeper game written in C, featuring three difficult
 
 ## 🚀 How to Run
 1. Clone the repository:  
-   `git clone https://github.com/your-username/minesweeper-c.git`  
-   `cd minesweeper-c`
-2. Compile the code:  
-   `gcc -o minesweeper minesweeper.c`
+   ```bash
+   git clone https://github.com/your-username/minesweeper-c.git
+   cd minesweeper-c
+   ```
+2. Compile the code:
+   ```bash  
+   gcc -o minesweeper minesweeper.c
+   ```
 3. Run the game:  
-   `./minesweeper`
+   ```bash
+   ./minesweeper
+   ```
 
 ---
 
@@ -48,3 +54,8 @@ A classic console-based Minesweeper game written in C, featuring three difficult
 - Save/load game state
 - GUI version using SDL or ncurses
 - Score tracking
+
+---
+
+## 📄 License
+This project is open-source and available under the MIT License.
