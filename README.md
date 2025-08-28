@@ -2,7 +2,6 @@
 
 [![C](https://img.shields.io/badge/Language-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Platform](https://img.shields.io/badge/Platform-Terminal-lightgrey)](https://en.wikipedia.org/wiki/Command-line_interface)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A classic console-based Minesweeper game written in C, featuring three difficulty levels and a 16x16 board. Reveal cells, avoid mines, and challenge your logic skills!
 
