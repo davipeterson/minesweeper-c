@@ -54,8 +54,3 @@ A classic console-based Minesweeper game written in C, featuring three difficult
 - Save/load game state
 - GUI version using SDL or ncurses
 - Score tracking
-
----
-
-## 📄 License
-This project is open-source and available under the MIT License.
